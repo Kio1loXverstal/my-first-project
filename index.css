@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(233, 233, 233);
+}
+
+
+.head {
+    font-size: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.zaglav-2 {
+    color: rgb(129, 197, 28);
+    margin: 7px;
+}
+
+.zaglav-1 {
+    margin: 7px;
+}
+
+.text-base {
+    font-size: 2.9rem;
+    /* display: grid; */
+    grid-template-columns: repeat(3 , 1fr);
+    /* display: flex; */
+    flex-direction: column;
+    margin-top: 4rem;
+    margin: 3rem;
+}
+
+.scrif {
+    /* display: inline;
+    width: fit-content; */
+}
+
+.text-box {
+    font-size: 2.9rem;
+    margin: 0.3rem;
+}
+
+.text-base-1 {
+    border: 4px solid rgb(0, 180, 150);
+    background-color: rgb(52, 225, 196);
+    border-radius: 2.5rem;
+    padding: 1.8rem;
+    font-size: 2.9rem;
+    /* display: grid; */
+    grid-template-columns: repeat(3 , 1fr);
+    /* display: flex; */
+    flex-direction: column;
+    margin-top: 4rem;
+    margin: 3rem;
+}
+.txt {
+    background-color: rgb(52, 225, 196);
+}
+
+.text-base-2 {
+    border: 4px solid rgb(22, 174, 2);
+    background-color: rgb(79, 208, 44);
+    border-radius: 2.5rem;
+    padding: 1.8rem;
+    font-size: 2.9rem;
+    /* display: grid; */
+    grid-template-columns: repeat(3 , 1fr);
+    /* display: flex; */
+    flex-direction: column;
+    margin-top: 4rem;
+    margin: 3rem;
+}
+.txt-2 {
+    background-color: rgb(79, 208, 44);
+}
+
+.d1v1 {
+    margin-left: 70px;
+}
